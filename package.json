@@ -1,6 +1,6 @@
 {
   "name": "convict-provider-utils",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A helper library to facilitate building providers for the `node-convict` configuration library.",
   "main": "lib/index.js",
   "scripts": {
